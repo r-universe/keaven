@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gsDesign"]
+	path = gsDesign
+	url = https://github.com/keaven/gsdesign
+	shallow = true
+	registered = true
