@@ -5,3 +5,6 @@
 [submodule "gsDesign"]
 	path = gsDesign
 	url = https://github.com/keaven/gsdesign
+[submodule "gsDesignNB"]
+	path = gsDesignNB
+	url = https://github.com/keaven/gsdesignnb
