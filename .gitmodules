@@ -8,3 +8,7 @@
 [submodule "gsDesignNB"]
 	path = gsDesignNB
 	url = https://github.com/keaven/gsdesignnb
+[submodule "lt"]
+	path = lt
+	url = https://github.com/yihui/lt
+	registered = false
